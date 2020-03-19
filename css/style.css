@@ -1213,13 +1213,7 @@ input:focus, textarea:focus, select:focus {
 		text-align: center;
 	}
 	.header_content h1 {
-		font-size: 1.8rem;
-	}
-	.services__text {
-		font-size: 1.3rem;
-	}
-	.services__sub-text {
-		font-size: 0.8rem;
+		font-size: 1.6rem;
 	}
 	.gold_text {
 		font-size: 2.1rem;
